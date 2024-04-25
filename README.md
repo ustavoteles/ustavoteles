@@ -1,5 +1,8 @@
 
-### Olá, eu sou o Gustavo Teles 👋🏾<br>🔭 Sou desenvolvedor back-end javascript!<br>🖥️ Atualmente estou procurando por vagas junior!<br>
+# Olá, eu sou o Gustavo Teles 👋🏾<br>
+🖥️ Desenvolvedor Back-end Javascript </br>
+ 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ustavoteles&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
