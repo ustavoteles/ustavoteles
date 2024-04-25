@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ### Olá, eu sou o Gustavo Teles 👋🏾<br>🔭 Sou desenvolvedor back-end javascript!<br>🖥️ Atualmente estou procurando por vagas junior!<br>
 
 # 📊 GitHub Stats:
