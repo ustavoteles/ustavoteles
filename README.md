@@ -1,6 +1,6 @@
 
-# Olá, eu sou o Gustavo Teles 👋🏾<br>
-🖥️ Desenvolvedor Back-end Javascript </br>
+<h1 align="center">Hi 👋🏾, I'm Gustavo Teles</h1>
+🖥️ Javascript and C# Developer  </br>
  
 
 
