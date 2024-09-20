@@ -18,14 +18,11 @@
       alt="typescript" width="40" height="40" /> </a>
    <a
       href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
       alt="nodejs" width="40" height="40" /> </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
       alt="express" width="40" height="40" /> </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
    <a
@@ -33,13 +30,13 @@
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
    </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
+      src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="40" height="40" /> </a>
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
       width="40" height="40" /> </a>
    <a href="https://dotnet.microsoft.com/" target="_blank"
       rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+      src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"
       alt="dotnet" width="40" height="40" /> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
@@ -67,7 +64,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank"
-      rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
+      rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" width="40"
       height="40" /> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -80,9 +77,7 @@
       width="40" height="40" /> </a>
    <a href="https://angular.io" target="_blank" rel="noreferrer">
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
-   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-      alt="angularjs" width="40" height="40" /> </a>
+   
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ustavoteles&show_icons=true&theme=dark&locale=en&layout=compact" alt="ustavoteles" /></p>
 
